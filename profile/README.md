@@ -9,8 +9,8 @@ Welcome to the June 2025 Data Engineering cohort! This page provides important i
 - **Repository Links**:  
   Below are links to repositories you should fork to participate in demonstrations and hands-on activities.  
   > _[Add your repository links here. Example:]_  
-  > - [Example Data Engineering Repo 1](https://github.com/example-org/data-eng-demo1)  
-  > - [Example Data Engineering Repo 2](https://github.com/example-org/data-eng-activity2)
+  > - [1. Git Basics](https://github.com/de-2506-a/git-basics))  
+  > - [2. Python Basics](https://github.com/de-2506-a/python-basics)
 
 - **Instructions for Forking, Cloning Repositories and creating a new Branch**:  
   1. Click the link for each repository above.
