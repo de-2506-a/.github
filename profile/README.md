@@ -12,6 +12,7 @@ Welcome to the June 2025 Data Engineering cohort! This page provides important i
   > - [1. Tech Essentials SQL](https://github.com/de-2506-a/tech-essentials-sql)
   > - [2. Git Basics](https://github.com/de-2506-a/git-basics)
   > - [3. Python Basics](https://github.com/de-2506-a/python-basics)
+  > - [4. Web Scraping](https://github.com/de-2506-a/web-scraping)
 
 - **Instructions for Forking, Cloning Repositories and creating a new Branch**:  
   1. Click the link for each repository above.
