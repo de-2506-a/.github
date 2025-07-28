@@ -14,16 +14,19 @@ Welcome to the June 2025 Data Engineering cohort! This page provides important i
   > - [3. Python Basics](https://github.com/de-2506-a/python-basics)
   > - [4. Web Scraping](https://github.com/de-2506-a/web-scraping)
   > - [5. Extracting with Pandas](https://github.com/de-2506-a/extracting-wth-pandas)
+  > - [6. Transforming using Pandas](https://github.com/de-2506-a/transforming-using-pandas)
+  > - [7. Advanced SQL](https://github.com/de-2506-a/transforming-using-pandas)
 
 - **Instructions for Forking, Cloning Repositories and creating a new Branch**:  
   1. Click the link for each repository above.
   2. Click the **Fork** button (top right) to create your own copy.
-  3. Once forked, click the **Code** button and copy the URL.
-  4. Clone to your local machine using:  
+  3. Make sure that you fork ***ALL*** branches (the `solutions` branch has completed code in it!)
+  4. Once forked, click the **Code** button and copy the URL.
+  5. Clone to your local machine using:  
      ```bash
      git clone <your-forked-repo-url>
      ```
-  5. Create a branch for you to work on using:
+  6. Create a branch for you to work on using:
      ```bash
      git switch -c <your-branch-name>
      ```
