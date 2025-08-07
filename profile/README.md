@@ -17,6 +17,7 @@ Welcome to the June 2025 Data Engineering cohort! This page provides important i
   > - [6. Transforming using Pandas](https://github.com/de-2506-a/transforming-using-pandas)
   > - [7. Advanced SQL](https://github.com/de-2506-a/advanced-sql)
   > - [8. Streamlit Workshop](https://github.com/de-2506-a/streamlit-workshop)
+  > - [9. PySpark Workshop](https://github.com/de-2506-a/pyspark-workshop)
 
 - **Instructions for Forking, Cloning Repositories and creating a new Branch**:  
   1. Click the link for each repository above.
